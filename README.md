@@ -66,3 +66,8 @@ A full explanation with visuals is available in the presentation file.
 
 For screenshots, visuals, insights, and the full project story:
 [👉 View full project on my Notion Portfolio](https://www.notion.so/E-commerce-Cosmetics-Revenue-Profit-Analysis-Python-2c3388b7f1a680d2bb6bf9ac2dbac5e5)
+
+
+## 📬 Contact
+For questions or collaboration:  
+Dawsonty8@gmail.com
