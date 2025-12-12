@@ -65,7 +65,8 @@ A full explanation with visuals is available in the presentation file.
 🔗 Portfolio Version (Full Write-Up)
 
 For screenshots, visuals, insights, and the full project story:
-[[👉 View full project on my Notion Portfolio]](https://healthy-scowl-eac.notion.site/Tyler-Dawson-Data-Portfolio-2c3388b7f1a6806da9e9e365aaefd466?source=copy_link)
+**[View full project on my Notion Portfolio](https://healthy-scowl-eac.notion.site/Tyler-Dawson-Data-Portfolio-2c3388b7f1a6806da9e9e365aaefd466?source=copy_link)
+**
 
 
 ## 📬 Contact
