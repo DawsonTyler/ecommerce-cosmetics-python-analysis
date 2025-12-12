@@ -65,7 +65,7 @@ A full explanation with visuals is available in the presentation file.
 🔗 Portfolio Version (Full Write-Up)
 
 For screenshots, visuals, insights, and the full project story:
-[👉 View full project on my Notion Portfolio](https://www.notion.so/E-commerce-Cosmetics-Revenue-Profit-Analysis-Python-2c3388b7f1a680d2bb6bf9ac2dbac5e5)
+[👉 View full project on my Notion Portfolio]([https://www.notion.so/E-commerce-Cosmetics-Revenue-Profit-Analysis-Python-2c3388b7f1a680d2bb6bf9ac2dbac5e5](https://healthy-scowl-eac.notion.site/Tyler-Dawson-Data-Portfolio-2c3388b7f1a6806da9e9e365aaefd466?source=copy_link))
 
 
 ## 📬 Contact
